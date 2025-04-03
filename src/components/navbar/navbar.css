@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  gap: 220px;
+  background: #f5f7fa;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.logo img {
+  height: 22px;
+}
+
+.links a {
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  background: none;
+  outline: none;
+}
+.links a {
+  padding-left: 32px;
+}
+
+.login-btn {
+  outline: none;
+  cursor: pointer;
+  background: none;
+  color: #4caf4f;
+  border: none;
+  padding: 20px;
+  font-size: 17px;
+}
+.signup-btn {
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: #4caf4f;
+  border: none;
+  padding: 16px;
+  font-size: 17px;
+  border-radius: 10px;
+}

@@ -1,0 +1,91 @@
+.main-container1 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  font-size: 35px;
+  margin-top: 90px;
+  color: #4d4d4d;
+  max-width: 650px;
+  font-weight: 500;
+}
+.top-section {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.second-text {
+  font-size: 35px;
+  color: #4d4d4d;
+  max-width: 650px;
+  font-weight: 500;
+}
+.top-section p {
+  color: #717171;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.card-section {
+  display: flex;
+  gap: 40px;
+}
+.card img {
+  width: 60px;
+  height: 60px;
+}
+.card {
+  max-width: 350px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.card .text {
+  font-size: 28px;
+  font-weight: 450;
+  max-width: 150px;
+}
+.card .card-text {
+  font-size: 15px;
+  color: #717171;
+  padding-top: 12px;
+}
+.last-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.last-section img {
+  width: 550px;
+  height: 550px;
+}
+.text-area {
+  max-width: 450px;
+}
+.begin-text {
+  font-size: 25px;
+  font-weight: 500;
+  color: #4d4d4d;
+}
+.context-text {
+  font-size: 12px;
+  padding-top: 20px;
+  color: #717171;
+}
+.text-area button {
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: #4caf4f;
+  border: none;
+  padding: 16px;
+  font-size: 17px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+
